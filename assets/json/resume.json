@@ -27,10 +27,27 @@
       "name": "Supercritical",
       "position": "VP of Climate",
       "url": "https://gosupercritical.com",
-      "startDate": "2022-01-01",
-      "endDate": "2024-06-31",
+      "startDate": "2023-12",
       "summary": "Responsible for the vetting of carbon removal methods and projects and helping businesses set their carbon removal strategies.",
       "highlights": ["Vetting"]
+    },
+    {
+      "name": "Supercritical",
+      "position": "Head of Climate",
+      "url": "https://gosupercritical.com",
+      "startDate": "2021-11",
+      "endDate": "2023-12",
+      "summary": "Helped businesses measure, reduce and offset their emission with high-quality carbon removal offsets. Developed carbon footprinting, removals offset vetting, & thought-leadership on both emissions reductions and supporting and scaling carbon removal technologies.",
+      "highlights": ["Vetting", "Carbon Footprint", "Offsetting", "Thought-leadership"]
+    },
+    {
+      "name": "Waste and Resource Action Programme (WRAP)",
+      "position": "Technical Specialist",
+      "url": "https://wrap.org.uk",
+      "startDate": "2015-07",
+      "endDate": "2019-06",
+      "summary": "Programme and strategy development, planning and delivery; International food sustainability focus.",
+      "highlights": ["Strategy", "Food Sustainability"]
     }
   ],
   "education": [
@@ -40,10 +57,20 @@
       "url": "https://cambridge.ac.uk/",
       "area": "Food Systems",
       "studyType": "PhD",
-      "startDate": "2012-01-01",
-      "endDate": "2015-06-01",
-      "score": "10",
+      "startDate": "2012-01",
+      "endDate": "2015-04",
       "courses": ["Food systems"]
+    },
+    {
+      "institution": "Imperial College London",
+      "location": "London, United Kingdom",
+      "url": "https://imperial.ac.uk/",
+      "area": "Environmental Technology",
+      "studyType": "MSc",
+      "startDate": "2008-10",
+      "endDate": "2009-06",
+      "score": "Distinction",
+      "courses": ["Environmental Analysis and Assessment"]
     }
   ],
   "languages": [

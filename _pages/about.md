@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Land use & climate change, science & implementation
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: bojana_mugshot.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  # more_info: >
+  #    <p>555 your office number</p>
+  #    <p>123 your address street</p>
+  #    <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
@@ -19,8 +19,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+VP of Climate at Supercritical, a start-up focusing on helping businesses achieve net zero, speeding up decarbonisation and scaling-up carbon removal.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Leading researcher in the intersection of land use & climate change, science & implementation. Experienced in stakeholder management, team leadership, delivering large projects and communication.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Passionate about protecting a habitable climate and (what is left of) the natural world.
+
+I am a highly cited researcher in sustainable food systems, with experience in policy and industry who bridges science, policy and industry. I have a strong interdisciplinary research background with PhD from Cambridge University. I received the RSPB medal for scientific work of highest importance for nature conservation, for my work on the importance of food system thinking for climate change and conservation objectives.
+
+I have appeared on BBC One, BBC Radio 4 Today and World Service on the topics of climate change, diets and food waste.
