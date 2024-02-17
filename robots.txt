@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://bojanabajzelj.github.io//sitemap.xml
+Sitemap: https://willu47.github.io//sitemap.xml
