@@ -1,4 +1,11 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Cullen":
+  - firstname: ["Jonathan M", "J.M.", "Jonathan M.", "Jon"]
+    url: http://www.eng.cam.ac.uk/profiles/jmc99
 
+"Smith":
+  - firstname: ["Peter", "P.", "Pete"]
+    url: https://www.abdn.ac.uk/people/pete.smith
+
+"Röös":
+  - firstname: ["Elin", "E."]
+    url: https://www.slu.se/en/ew-cv/elin-roos/
